@@ -1,6 +1,7 @@
 Transposer [![Build Status](https://travis-ci.org/davidparsson/transposer.svg?branch=master)](https://travis-ci.org/davidparsson/transposer)
 ==========
-Modified: http://shaharr.info, 2016
+Original version: davidparsson (here on githab)
+Forked & Modified: http://shaharr.info, 2016
 
 
 Transposing chords from one key to another
